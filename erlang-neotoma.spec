@@ -9,7 +9,7 @@ Release:	1
 Summary:	Erlang library and packrat parser-generator for parsing expression grammars
 Group:		Development/Erlang
 License:	MIT
-URL:		http://github.com/%{upstream}/%{realname}
+URL:		https://github.com/%{upstream}/%{realname}
 Source0:	https://github.com/%{upstream}/%{realname}/archive/%{version}/%{realname}-%{version}.tar.gz
 BuildRequires:	erlang-rebar
 
